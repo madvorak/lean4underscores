@@ -10,4 +10,4 @@ lean_exe underscores {
   root := `Main
 }
 
-lean_lib Myfile
+lean_lib My_file
